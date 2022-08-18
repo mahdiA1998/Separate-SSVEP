@@ -1,6 +1,6 @@
 # Separate-SSVEPs
 
-This Matlab code is written to extract SSVEP related to three flicker stimuli with different frequencies from EEG signal.
+"This Matlab code is written to extract SSVEP related to three flicker stimuli with different frequencies from EEG signal"
 
 DATA: 
 
